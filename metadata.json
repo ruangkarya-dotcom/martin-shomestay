@@ -1,0 +1,6 @@
+{
+  "name": "StayNest",
+  "description": "Platform Booking Homestay Modern, Nyaman, dan Terpercaya di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
